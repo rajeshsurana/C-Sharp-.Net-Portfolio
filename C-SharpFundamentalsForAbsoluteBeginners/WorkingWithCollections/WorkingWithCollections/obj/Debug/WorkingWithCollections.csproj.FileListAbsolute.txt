@@ -1,0 +1,7 @@
+c:\users\bob tabor\documents\visual studio 2013\Projects\WorkingWithCollections\WorkingWithCollections\bin\Debug\WorkingWithCollections.exe.config
+C:\Users\Rajesh\Documents\Visual Studio 2013\Projects\WorkingWithCollections\WorkingWithCollections\bin\Debug\WorkingWithCollections.exe.config
+C:\Users\Rajesh\Documents\Visual Studio 2013\Projects\WorkingWithCollections\WorkingWithCollections\bin\Debug\WorkingWithCollections.exe
+C:\Users\Rajesh\Documents\Visual Studio 2013\Projects\WorkingWithCollections\WorkingWithCollections\bin\Debug\WorkingWithCollections.pdb
+C:\Users\Rajesh\Documents\Visual Studio 2013\Projects\WorkingWithCollections\WorkingWithCollections\obj\Debug\WorkingWithCollections.csprojResolveAssemblyReference.cache
+C:\Users\Rajesh\Documents\Visual Studio 2013\Projects\WorkingWithCollections\WorkingWithCollections\obj\Debug\WorkingWithCollections.exe
+C:\Users\Rajesh\Documents\Visual Studio 2013\Projects\WorkingWithCollections\WorkingWithCollections\obj\Debug\WorkingWithCollections.pdb

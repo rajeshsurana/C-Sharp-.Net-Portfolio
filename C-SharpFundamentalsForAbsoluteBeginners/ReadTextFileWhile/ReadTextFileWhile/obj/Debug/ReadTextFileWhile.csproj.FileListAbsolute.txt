@@ -1,0 +1,7 @@
+c:\users\rajesh\documents\visual studio 2013\Projects\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.exe.config
+c:\users\rajesh\documents\visual studio 2013\Projects\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\Values.txt
+c:\users\rajesh\documents\visual studio 2013\Projects\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.exe
+c:\users\rajesh\documents\visual studio 2013\Projects\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.pdb
+c:\users\rajesh\documents\visual studio 2013\Projects\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.csprojResolveAssemblyReference.cache
+c:\users\rajesh\documents\visual studio 2013\Projects\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.exe
+c:\users\rajesh\documents\visual studio 2013\Projects\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.pdb

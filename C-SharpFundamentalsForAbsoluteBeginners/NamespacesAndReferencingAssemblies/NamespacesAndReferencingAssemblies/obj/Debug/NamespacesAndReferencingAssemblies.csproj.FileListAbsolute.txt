@@ -1,0 +1,7 @@
+c:\users\rajesh\documents\visual studio 2013\Projects\NamespacesAndReferencingAssemblies\NamespacesAndReferencingAssemblies\bin\Debug\NamespacesAndReferencingAssemblies.exe.config
+c:\users\rajesh\documents\visual studio 2013\Projects\NamespacesAndReferencingAssemblies\NamespacesAndReferencingAssemblies\obj\Debug\NamespacesAndReferencingAssemblies.csprojResolveAssemblyReference.cache
+c:\users\rajesh\documents\visual studio 2013\Projects\NamespacesAndReferencingAssemblies\NamespacesAndReferencingAssemblies\bin\Debug\NamespacesAndReferencingAssemblies.exe
+c:\users\rajesh\documents\visual studio 2013\Projects\NamespacesAndReferencingAssemblies\NamespacesAndReferencingAssemblies\bin\Debug\NamespacesAndReferencingAssemblies.pdb
+c:\users\rajesh\documents\visual studio 2013\Projects\NamespacesAndReferencingAssemblies\NamespacesAndReferencingAssemblies\bin\Debug\Tabor.dll
+c:\users\rajesh\documents\visual studio 2013\Projects\NamespacesAndReferencingAssemblies\NamespacesAndReferencingAssemblies\obj\Debug\NamespacesAndReferencingAssemblies.exe
+c:\users\rajesh\documents\visual studio 2013\Projects\NamespacesAndReferencingAssemblies\NamespacesAndReferencingAssemblies\obj\Debug\NamespacesAndReferencingAssemblies.pdb
